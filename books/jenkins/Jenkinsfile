@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "rh000-books-dev"
-        STAGE_PROJECT = "rh000-books-stage"
+        DEV_PROJECT = "ryosuke-hoshi-ctc-g-co-jp-books-dev"
+        STAGE_PROJECT = "ryosuke-hoshi-ctc-g-co-jp-books-stage"
         APP_GIT_URL = "https://github.com/rh000/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap3.prod.nextcle.com/repository/nodejs"
 
